@@ -3,4 +3,4 @@
 Level 1 Developer.
 
 Languages Used:
-![alt text](images/PngItem_5380039.png)
+<img src="images/PngItem_5380039.png" width="32">
