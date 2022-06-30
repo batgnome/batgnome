@@ -1,5 +1,4 @@
 # Elias Hawkins
-## Level 1 Developer.
 #
 ### Languages Used:
 
