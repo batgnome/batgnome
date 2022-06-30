@@ -5,7 +5,6 @@
 
 <img src="images\java-original.svg" width="32">
 <img src="images\javascript-original.svg" width="32">
-<img src="images\nodejs-original.svg" width="32">
 <img src="images\html5-original.svg" width="32">
 <img src="images\css3-original.svg" width="32">
 <img src="images\Ruby_logo.svg" width="32">
@@ -15,6 +14,7 @@
 ### Tools and Frameworks Used :
 
 <img src="images\vscode-original.svg" width="32">
+<img src="images\nodejs-original.svg" width="32">
 <img src="images\bootstrap-original.svg" width="32">
 <img src="images\Ruby_on_Rails_logo.svg" width="32" height="32">
 
