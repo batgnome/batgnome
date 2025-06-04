@@ -37,5 +37,5 @@
   <!-- SQL (generic database) -->
   <a href="#" title="SQL"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" height="40"/></a>
   <!-- ColdFusion (no official devicon icon, using Adobe icon) -->
-  <a href="https://www.adobe.com/products/coldfusion-family.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Adobe_ColdFusion_logo.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/coldfusion-family.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adobe_ColdFusion_logo_2021.svg/56px-Adobe_ColdFusion_logo_2021.svg.png" width="40" height="40"/></a>
 </p>
